@@ -1,0 +1,2 @@
+Event,distance_source,theta_E,sig_theta_E,xmin,xmax,Jlens,errJlens,AJlens,Hlens,errHlens,AHlens,Klens,errKlens,AKlens,Pi_E,sig_Pi_E,dist_mod_lens,mass_mod_lens,err_dist_mod_lens,err_mass_mod_lens,Rlens,errRlens,ARlens,Blens,errBlens,ABlens,Ilens,errIlens,AIlens,Vlens,errVlens,AVlens,SHV_Pi, SHV_Pi_err
+1195,8160,0.391,0.06,3000,8500,0,0,0,0,0,0,19.75,0.3,0.24,0.05,0.02,7200,0.37,1000,0.16,0,0,0,0,0,0,0,0,0,0,0,0,0.45,0.03
