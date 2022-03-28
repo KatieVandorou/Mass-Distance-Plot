@@ -221,5 +221,5 @@ def massdistance(event,iso_dir,*bands):
     #plt.legend() - this is usually not needed
     #plt.savefig('1195_2021_v8.png', dpi=600) # uncomment this line to save as a png image. 
         
-
-
+#to make the plot, run this line: 
+#massdistance("1195b.csv","10Gyr","K")
